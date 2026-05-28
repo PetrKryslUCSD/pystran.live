@@ -1,0 +1,3 @@
+[submodule "content/pystran"]
+	path = content/pystran
+	url = https://github.com/PetrKryslUCSD/pystran.git
