@@ -25,6 +25,7 @@ jobs:
           python -m pip install -r requirements.txt
       - name: Build the JupyterLite site
         run: |
+          echo Running
           mkdir content/pystran
           ls -al content/pystran
           cp README.md content
