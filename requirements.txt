@@ -42,3 +42,8 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=6,<7
 bqplot
+
+# pystran needs this:
+numpy
+scipy
+matplotlib
