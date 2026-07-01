@@ -4,7 +4,7 @@
 Python package for structural analysis with trusses and beams.
 
 
-## ✨ Try it in your browser ✨
+## Try it in your browser 
 
 ➡️ **https://PetrKryslUCSD.github.io/pystran.live/lab/index.html?path=Welcome.ipynb**
 
